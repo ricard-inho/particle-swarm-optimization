@@ -28,7 +28,7 @@ def main(cfg):
 
         print(f"Generation {i} swarm fitness: {swarm.best_swarm_fitness}, swarm position: {swarm.best_swarm_position}")
 
-    imageio.mimsave('imgs/output.gif', images, duration=0.5)
+    imageio.mimsave(cfg.output_folder, images, duration=0.5)
 
 
 if __name__ == "__main__":
