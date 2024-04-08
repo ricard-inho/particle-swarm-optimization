@@ -1,5 +1,5 @@
-# Particle Swarn Optimization
-Implementation of Partcle Swarn Optimization of the Rastrigin function.
+# Particle Swarm Optimization
+Implementation of Partcle Swarm Optimization of the Rastrigin function.
 
 ![output](https://github.com/ricard-inho/particle-swarn-optimization-jax/blob/main/imgs/output.gif)
 
